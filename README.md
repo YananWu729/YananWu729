@@ -1,24 +1,28 @@
 🌍 **From Language Teaching to Web Development: Bridging Communication & Code**  
-As a qualified Mandarin/English teacher with 4+ years of experience, I’ve honed problem-solving, adaptability, and creating engaging learning experiences. Now transitioning into tech as a Web Developer, certified in **Responsive Web Design, JavaScript, Python, and Business Analysis**.  
+I worked as a qualified Mandarin/English teacher in Thailand, China and the UK for over 5 years. I’ve developed abilities of adaptability, problem-solving, and continuous learning. Now I'm transitioning into tech as a Web Developer.
 
-**✨ What I Bring to Tech:**  
-✅ **Communication & Collaboration:** Expertise from multilingual teaching roles.  
-✅ **Technical Skills:** Front-end development (HTML5, CSS, JavaScript), Python, UI/UX (Figma).  
-✅ **Growth Mindset:** Continuously learning EdTech, AI, and software development.  
+👩💻**Current Focus**:
+    Web Development(HTML, CSS & JS) & Python
+    Portfolio website & Notting Hill Carnival website (applying the knowledge and skills I got into real-life application )
 
-👩💻 **Current Focus:**  
-- Web Development & Python  
-- Portrait Photography (blending creativity with tech!)  
-
+📋**Will learn**:
+1. React
+2. WordPress
+3. PHP
+4. Angular
+5. APIs and more...
+   
+⚡ Fun Facts: I am a not bad photographer📸. & My outings often summon rainstorms! 🌧️⛈️🌈
+ 
 🤝 **Let’s Collaborate On:**  
 - Web development projects (especially educational tools)  
-- Translation/localisation initiatives  
+- Transitioning into Tech 
 
 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/yanan-wu-72b884257/)  
-😄 **Pronouns:** She/Her  
+🦄 **Pronouns:** She/Her  
 ⚡ **Fun Fact:** My outings often summon rainstorms! 🌧️⛈️🌈  
 
-*Let’s connect and create impactful solutions at the intersection of education and tech!*
+*Let’s connect and create impactful solutions together!*
 
 <!---
 YananWu729/YananWu729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
