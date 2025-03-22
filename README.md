@@ -1,26 +1,27 @@
-🌍 **From Language Teaching to Web Development: Bridging Communication & Code**  
-I worked as a qualified Mandarin/English teacher in Thailand, China and the UK for over 5 years. I’ve developed abilities of adaptability, problem-solving, and continuous learning. Now I'm transitioning into tech as a Web Developer.
+I worked as a qualified Mandarin/English teacher in Thailand, China and the UK for over 5 years. 
+
+Now I'm transitioning my career into tech as a **Web Developer**.
 
 👩💻**Current Focus**:
-    Web Development(HTML, CSS & JS) & Python
-    Portfolio website & Notting Hill Carnival website (applying the knowledge and skills I got into real-life application )
 
+- Web Development(HTML, CSS & JS) & Python
+
+- Portfolio website & Notting Hill Carnival website 
+    
 📋**Will learn**:
-1. React
-2. WordPress
-3. PHP
-4. Angular
-5. APIs and more...
-   
-⚡ Fun Facts: I am a not bad photographer📸. & My outings often summon rainstorms! 🌧️⛈️🌈
- 
+- React
+- WordPress
+- PHP
+- Angular
+- APIs and more...
+
 🤝 **Let’s Collaborate On:**  
-- Web development projects (especially educational tools)  
-- Transitioning into Tech 
+- Web development projects 
+- Transitioning into Tech   
 
 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/yanan-wu-72b884257/)  
 🦄 **Pronouns:** She/Her  
-⚡ **Fun Fact:** My outings often summon rainstorms! 🌧️⛈️🌈  
+⚡ Fun Facts: I am also a photographer 📸. & My outings often call for rainstorms! 🌧️⛈️🌈 
 
 *Let’s connect and create impactful solutions together!*
 
