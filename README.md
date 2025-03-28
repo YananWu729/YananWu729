@@ -7,13 +7,6 @@ Now I'm transitioning my career into tech as a **Web Developer**.
 - Web Development(HTML, CSS & JS) & Python
 
 - Portfolio website & Notting Hill Carnival website 
-    
-📋**Will learn**:
-- React
-- WordPress
-- PHP
-- Angular
-- APIs and more...
 
 🤝 **Let’s Collaborate On:**  
 - Web development projects 
