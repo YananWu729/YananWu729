@@ -9,14 +9,15 @@ Now I'm transitioning my career into tech as a **Web Developer**.
 - Portfolio website & Notting Hill Carnival website 
 
 🤝 **Let’s Collaborate On:**  
-- Web development projects 
-- Transitioning into Tech   
+- Web projects (especially ones that help people learn!).
+- Sharing tips on moving into tech  
 
 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/yanan-wu-72b884257/)  
 🦄 **Pronouns:** She/Her  
 ⚡ Fun Facts: I am also a photographer 📸. & My outings often call for rainstorms! 🌧️⛈️🌈 
 
-*Let’s connect and create impactful solutions together!*
+*Find me on LinkedIn! Let’s chat about tech, teaching, or making things that matter!!*
+
 
 <!---
 YananWu729/YananWu729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
