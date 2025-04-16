@@ -4,12 +4,12 @@ Now I'm transitioning my career into tech as a **Web Developer**.
 
 👩💻**Current Focus**:
 
-- Web Development(HTML, CSS & JS) & Python
+- Web Development(HTML, CSS, JS & React) & Python
 
-- Portfolio website & Notting Hill Carnival website 
+- Mandarin Flash Cards website & Portfolio website 
 
 🤝 **Let’s Collaborate On:**  
-- Web projects (especially ones that help people learn!).
+- Web projects, especially ones that help people learn!
 - Sharing tips on moving into tech  
 
 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/yanan-wu-72b884257/)  
