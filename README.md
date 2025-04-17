@@ -1,6 +1,6 @@
 I worked as a qualified Mandarin/English teacher in Thailand, China and the UK for over 5 years. 
 
-Now I'm transitioning my career into tech as a **Web Developer**.
+Now I'm transitioning my career into tech as a **Front-end engineer**.
 
 👩💻**Current Focus**:
 
@@ -14,7 +14,7 @@ Now I'm transitioning my career into tech as a **Web Developer**.
 
 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/yanan-wu-72b884257/)  
 🦄 **Pronouns:** She/Her  
-⚡ Fun Facts: I am also a photographer 📸. & My outings often call for rainstorms! 🌧️⛈️🌈 
+⚡ Fun Facts: I am also a photographer 📸 & fairly good cook & baker👩🏻‍🍳
 
 *Find me on LinkedIn! Let’s chat about tech, teaching, or making things that matter!!*
 
