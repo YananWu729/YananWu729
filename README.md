@@ -9,7 +9,7 @@ Now I'm transitioning my career into tech as a **Front-end engineer**.
 - Mandarin Flash Cards website & Portfolio website 
 
 🤝 **Let’s Collaborate On:**  
-- Web projects, especially ones that help people learn!
+- Web projects!
 
 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/yanan-wu-72b884257/)  
 🦄 **Pronouns:** She/Her  
